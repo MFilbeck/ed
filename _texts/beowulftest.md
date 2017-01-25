@@ -6,8 +6,8 @@ publication-date: 2001
 source: "Heaney, Seamus. Beowulf: A New Verse Translation. Norton, 2001"
 ---
 
-So. The Spear-Danes in days gone by and the kings who ruled them had courage and greatness. 
-We have heard of those princes’ heroic campaigns.
+- So. The Spear-Danes in days gone by and the kings who ruled them had courage and greatness. 
+- We have heard of those princes’ heroic campaigns.
 There was Shield Sheafson, scourge of many tribes, a wrecker of mead-benches, rampaging among foes. 
 This terror of the hall-troops had come far. 
 A foundling to start with, he would flourish later on as his powers waxed and his worth was proved. 
