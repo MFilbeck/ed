@@ -1,3 +1,10 @@
+---
+layout: poem
+title: Beowulf
+author: Seamus Heaney, trans.
+publication-date: 2001
+source: "Heaney, Seamus. Beowulf: A New Verse Translation. Norton, 2001"
+---
 # BEOWULF
 ## Translation by Seamus Heaney
 ### Part I
