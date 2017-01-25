@@ -5,9 +5,6 @@ author: Seamus Heaney, trans.
 publication-date: 2001
 source: "Heaney, Seamus. Beowulf: A New Verse Translation. Norton, 2001"
 ---
-# BEOWULF
-## Translation by Seamus Heaney
-### Part I
 So. The Spear-Danes in days gone by and the kings who ruled them had courage and greatness. 
 We have heard of those princes’ heroic campaigns.
 There was Shield Sheafson, scourge of many tribes, a wrecker of mead-benches, rampaging among foes. 
