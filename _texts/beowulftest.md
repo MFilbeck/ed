@@ -8,13 +8,13 @@ source: "Heaney, Seamus. Beowulf: A New Verse Translation. Norton, 2001"
 
 -So. The Spear-Danes in days gone by and the kings who ruled them had courage and greatness. 
 -We have heard of those princes’ heroic campaigns.
-There was Shield Sheafson, scourge of many tribes, a wrecker of mead-benches, rampaging among foes. 
-This terror of the hall-troops had come far. 
-A foundling to start with, he would flourish later on as his powers waxed and his worth was proved. 
-In the end each clan on the outlying coasts beyond the whale-road had to yield to him and begm' to pay tribute. 
-That was one good king.
-Afterwards a boy-child was born to Shield, a cub in the yard, 
-a comfort sent by God to that nation.
+-There was Shield Sheafson, scourge of many tribes, a wrecker of mead-benches, rampaging among foes. 
+-This terror of the hall-troops had come far. 
+-A foundling to start with, he would flourish later on as his powers waxed and his worth was proved. 
+-In the end each clan on the outlying coasts beyond the whale-road had to yield to him and begm' to pay tribute. 
+-That was one good king.
+-Afterwards a boy-child was born to Shield, a cub in the yard, 
+-a comfort sent by God to that nation.
 He knew what they had tholed, the long times and troubles they’d come through without a leader; 
 so the Lord of Life, the glorious Almighty, made tlu's man renowned. 
 Shield had fathered a famous son: Beow’s name was known through the north. And a young prin'ce must be prudent lik'e that, givm'g freely while his father lives so that afterwards in age when fightm'g starts
