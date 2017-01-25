@@ -1,8 +1,8 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
+title:               Melissa's Digital Workshop
+tagline:             'Experimenting with digital editions'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 'http://MFilbeck.github.io'
 baseurl:             '/ed'
